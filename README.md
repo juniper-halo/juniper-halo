@@ -6,7 +6,4 @@ Current focus: training/evaluating models and building simple web demos
 
 Outside of CS: self-taught piano, light novels/manga (Your Lie in April)
 
----
-
-## Links
 [Homepage](https://juniper-halo.github.io/juno/)
