@@ -1,16 +1,45 @@
-## Hi there 👋
+I’m a 2nd-year Computer Science undergrad at the University of Illinois Urbana–Champaign (UIUC), interested in foundational ML models, especially computer vision and multimodal representation learning. I like building research-oriented projects and turning them into clean demos.
 
-<!--
-**juniper-halo/juniper-halo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Edmund James Scholar  
+Interests: multimodal learning, representation learning, vision-language models  
+Current focus: training/evaluating models and building simple web demos
 
-Here are some ideas to get you started:
+Outside of CS: self-taught piano, light novels/manga (Your Lie in April)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech and tools
+
+Languages: C++, Python
+
+A lot of my public GitHub activity is coursework and practice:
+- C++ debugging and testing exercises (including Catch2)
+- data-structure style assignments (queues, tic-tac-toe, CSV parsing)
+- Python coursework repo(s)
+
+---
+
+## Featured work
+
+Vision–Language / Multimodal
+- CLIP ViT-B/32 fine-tuning and web demo: fine-tuned model plus a portfolio-style demo app
+
+Coursework / practice
+- C++ and Python course repositories and assignments, with a focus on correctness, testing, and debugging
+
+---
+
+## What I’m working on next
+
+- Better experiment tracking and reproducibility for ML projects
+- Clearer documentation and model cards for released projects
+- More polished demos and evaluations for research projects
+
+---
+
+## Links
+
+Portfolio: add link  
+LinkedIn: add link  
+Email: add email  
+Resume: add link
